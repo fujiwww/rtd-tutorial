@@ -18,6 +18,5 @@ WISE Audit Wiki
 
 .. toctree::
 
-   priorty_severity
    usage
    api
