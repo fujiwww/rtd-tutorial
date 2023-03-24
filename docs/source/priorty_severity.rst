@@ -30,3 +30,8 @@ P4（一般的な質問）
 シビリティ (Severity)をONに設定する。
 
 ( 記載日 2018/08/07 能町 )
+
+.. autosummary::
+   :toctree: generated
+
+   lumache
