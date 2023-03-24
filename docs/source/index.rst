@@ -13,7 +13,7 @@ WISE Audit Wiki
  
     This project is under active development.
 
-Contents
+目次
 --------
 
 .. toctree::
